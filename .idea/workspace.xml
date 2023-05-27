@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07f70553-bc42-4718-8623-927c650f0d61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/ActionMehtod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/DragDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass/HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/DreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectMidLrvalPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelectClass/SelectPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenuim_Intro/SeleniumBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Selenuim_Intro/SeleniumDriverMehtods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/OpenChartTestNG_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNG_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG/TestNG_intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/hw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lambda_test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/CSS_locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/LocatorsIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/LocatorsIntro2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/LocatorsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/XpathLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/XpathPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/XpathRealHealthProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/findElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/getAttributePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumLocators/youTubeRealInterviewQuestion.java" afterDir="false" />
-    </list>
+    <list default="true" id="07f70553-bc42-4718-8623-927c650f0d61" name="Changes" comment="anhsar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ItsYoBoiMac &lt;sold@1gregs-macbook-pro.local&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -191,7 +164,33 @@
       <option name="presentableId" value="Default" />
       <updated>1683996919184</updated>
     </task>
+    <task id="LOCAL-00001" summary="anhsar">
+      <created>1685217545282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685217545282</updated>
+    </task>
+    <task id="LOCAL-00002" summary="anhsar">
+      <created>1685217623904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685217623904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="anhsar">
+      <created>1685217639535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685217639535</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="anhsar" />
+    <option name="LAST_COMMIT_MESSAGE" value="anhsar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
